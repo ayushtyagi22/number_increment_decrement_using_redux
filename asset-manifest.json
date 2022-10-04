@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/number_increment_decrement_using_redux/static/css/main.3d1f50d3.css",
+    "main.js": "/number_increment_decrement_using_redux/static/js/main.374cdd0a.js",
+    "static/js/787.23f614b7.chunk.js": "/number_increment_decrement_using_redux/static/js/787.23f614b7.chunk.js",
+    "index.html": "/number_increment_decrement_using_redux/index.html",
+    "main.3d1f50d3.css.map": "/number_increment_decrement_using_redux/static/css/main.3d1f50d3.css.map",
+    "main.374cdd0a.js.map": "/number_increment_decrement_using_redux/static/js/main.374cdd0a.js.map",
+    "787.23f614b7.chunk.js.map": "/number_increment_decrement_using_redux/static/js/787.23f614b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d1f50d3.css",
+    "static/js/main.374cdd0a.js"
+  ]
+}
